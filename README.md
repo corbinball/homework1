@@ -22,7 +22,7 @@ Consolidated and cleaned up css with new classes
  
 Here is a screenshot of the website:
   <image src="assets\images\Screenshot.png" />
-  <image src="assets\images\screenshot2.png" />
+  <image src="assets\images\screenshot2.PNG" />
 
  
 Links
