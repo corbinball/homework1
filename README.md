@@ -21,8 +21,8 @@ benefit-section
 Consolidated and cleaned up css with new classes
  
 Here is a screenshot of the website:
-  <image src="C:\Users\Corbin\homework1-1\Screenshot.png" />
-  <image src="C:\Users\Corbin\homework1-1\screenshot2.PNG" />
+  <image src=".C:\Users\Corbin\homework1-1\Screenshot.png" />
+  <image src=".C:\Users\Corbin\homework1-1\screenshot2.PNG" />
 
  
 Links
